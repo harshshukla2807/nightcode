@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@nightcode/server": "workspace:*",
-    "@types/bun": "latest",
+    "@types/bun": "^1.4.4",
     "@types/react": "^19.2.14"
   },
   "peerDependencies": {
@@ -19,6 +19,7 @@
     "@nightcode/shared": "workspace:*",
     "@opentui/core": "^0.1.97",
     "@opentui/react": "^0.1.97",
+    "open": "^11.0.0",
     "date-fns": "^4.1.0",
     "eventsource-parser": "^3.0.6",
     "hono": "^4.12.12",
